@@ -1,12 +1,8 @@
-Estou aprendendo, experimentando e criando projetos que misturam utilidade, diversão e aprendizado. Meu foco é backend, especialmente em Golang, mas gosto de explorar ideias criativas e práticas que resolvem problemas reais. Mas minha porta de entrada para programação foi com Python para análise de dados/ciência de dados. 
-
-Você pode ver meu projetos que estão destacados em meu perfil.
+![hey yal'll](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR3ZTl5bG9xMjBmYTFiNjI5cDhwcWRhZHE5b3p5eTY0NGJ5amxoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39D7D1jX4ZjGK5EI/giphy.webp)
 
 ### Sobre Mim
--  Objetivo: Construir sistemas simples, úteis para empresas ou que sejam apenas excêntricos e divertidos.
--  Estilo de Trabalho: Gosto de projetos práticos, estruturados em etapas, com explicações claras e aplicáveis. Tehno focado em iniciar com projetos simples, a fim de documentá-los e quem sabe transmitir a experiência adiante.
--  Valores: Preferência por soluções simples, minimalistas e que qualquer pessoa possa usar. Acho que complexidade deve ser sanada com simplicidade.
+-  Objetivo: me aventurar nos códigos
+-  Estilo de Trabalho: Gosto de projetos práticos, estruturados em etapas, com explicações claras e aplicáveis. Tehno focado em iniciar com projetos simples, a fim de documentá-los
 
 
-🔗 Como Falar Comigo?
-Abra uma issue ou mande mensagem em algum projeto! Estou sempre disposto a trocar ideias e aprender com a comunidade. Ou me envie um [email](zara.leonardo@gmail.com).
+ Como Falar Comigo? [email](zara.leonardo@gmail.com).
