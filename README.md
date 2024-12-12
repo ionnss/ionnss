@@ -19,5 +19,4 @@
 
 Como Falar Comigo? 
 
-![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [email](zara.leonardo@gmail.com)
-zara.leonardo@gmail.com
+![zara.leonardo@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
