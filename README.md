@@ -1,8 +1,5 @@
 ![hey yal'll](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR3ZTl5bG9xMjBmYTFiNjI5cDhwcWRhZHE5b3p5eTY0NGJ5amxoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39D7D1jX4ZjGK5EI/giphy.webp)
 
-[![ionnss top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ionnss&theme=blue-green)](https://github.com/ionnss/github-readme-stats)
-
-[![ionnss's github streak](https://github-readme-streak-stats.herokuapp.com/?user=ionnss&theme=blue-green)](https://github.com/ionnss/github-readme-streak-stats)
 
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ionnss&theme=blue-green)](https://github.com/ionnss/github-readme-stats)
 
