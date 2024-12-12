@@ -18,4 +18,6 @@
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 
 Como Falar Comigo? 
+
 ![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [email](zara.leonardo@gmail.com)
+zara.leonardo@gmail.com
