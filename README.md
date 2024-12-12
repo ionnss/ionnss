@@ -1,10 +1,6 @@
 ![hey yal'll](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemR3ZTl5bG9xMjBmYTFiNjI5cDhwcWRhZHE5b3p5eTY0NGJ5amxoZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT39D7D1jX4ZjGK5EI/giphy.webp)
 
 
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=ionnss&theme=blue-green)](https://github.com/ionnss/github-readme-stats)
-
-
-
 ## Stacks
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
