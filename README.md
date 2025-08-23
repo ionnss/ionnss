@@ -1,6 +1,10 @@
-#### Hey y’all!
+#### Hey y’all!  
 
-I’ve been solo "deving" my way up to this point. As I like to say: aspiring developer by day, psychologist by afternoon—and beyond.
+I’m Leo — coding my way through bugs and Docker logs by day, and decoding minds by afternoon.  
+Think of me as a part-time developer, part-time psychologist, full-time curious human.  
+
+I like building things that mix logic with a touch of chaos, whether it’s wrangling Rust lifetimes, spinning up Go backends, or finding creative ways tech can meet people.  
+
 
 ## Stacks
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
