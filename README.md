@@ -24,6 +24,7 @@ or finding creative ways tech can make me have some quality alone time.
 #### 🌱 Currently Learning
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
+</div>
 
 ####⚡️ Fun Facts
 - 🧠 Psychologist who codes (and sometimes codes like a psychologist).  
@@ -32,8 +33,3 @@ or finding creative ways tech can make me have some quality alone time.
 - 🐧 I enjoy reading, mountaineering, climbing and being a psychologist.  
 
 
-## 📊 GitHub Vibes  
-
-![Leo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ionnss&show_icons=true&theme=tokyonight)  
-
-</div>
