@@ -3,10 +3,6 @@
 I’m **Leo**. I`ve been coding my way through bugs by day and decoding minds by afternoon.  
 Think of me as a **part-time developer, part-time psychologist, full-time curious human**.  
 
-I like building things that mix logic with a touch of chaos ⚡️ —  
-whether it’s wrangling Rust lifetimes, spinning up Go backends,  
-or finding creative ways tech can make me have some quality alone time. 
-
 ### 🛠️ Stacks I Play With  
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
