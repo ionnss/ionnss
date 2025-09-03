@@ -22,7 +22,7 @@ Think of me as a **part-time developer, part-time psychologist, full-time curiou
 
 </div>
 
-### ⚡️ Fun Facts
+### Some Facts
 - 🧠 Psychologist who codes (and sometimes codes like a psychologist).  
 - ☕ Built a coffee shop long time ago. The Cabra Coffee!  
 - 🦥 I use coding for quality time with myself.  
