@@ -27,6 +27,6 @@ Think of me as a **part-time developer, part-time psychologist, full-time curiou
 - ☕ Built a coffee shop long time ago. The Cabra Coffee!  
 - 🦥 I use coding for quality time with myself.  
 - 🐧 I enjoy reading, mountaineering, climbing and being a psychologist.
-- Building (Olho Urbano)[https://olhourbano.com.br] with Golang
+- Building [Olho Urbano](https://olhourbano.com.br) with Golang
 
 
