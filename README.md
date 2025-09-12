@@ -27,5 +27,6 @@ Think of me as a **part-time developer, part-time psychologist, full-time curiou
 - 🦥 I use coding for quality time with myself.  
 - 🐧 I enjoy reading, mountaineering, climbing and being a psychologist.
 - Building [Olho Urbano](https://olhourbano.com.br) with Golang
+- Learning Rust and building some side projects
 
 
