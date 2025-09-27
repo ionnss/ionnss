@@ -1,4 +1,4 @@
-<div align="center">
+
     
 I am a **psychologist** and part-time coder. Building [Olho Urbano](https://olhourbano.com.br) with Golang, learning Rust and building some side projects.
 
@@ -10,6 +10,6 @@ I am a **psychologist** and part-time coder. Building [Olho Urbano](https://olho
 ![Sqlite](https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-</div>
+
 
 
