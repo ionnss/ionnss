@@ -12,7 +12,7 @@ I am a **part-time developer, part-time psychologist**.
 ![Sqlite](https://img.shields.io/badge/sqlite-%23316192.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 
-
+</div>
 
 - Building [Olho Urbano](https://olhourbano.com.br) with Golang
 - Learning Rust and building some side projects
