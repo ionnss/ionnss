@@ -1,6 +1,6 @@
 
     
-I am a **psychologist** and part-time coder. Building [Olho Urbano](https://olhourbano.com.br) with Golang, learning Rust and building some side projects.
+I am a **psychologist** and part-time coder. Building some side projects.
 
 ### Stacks
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
